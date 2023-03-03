@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Babs Olufowobi</h1>
 <h3 align="center">A passionate backend developer from Nigeria</h3>
 
-- 🌱 I’m currently learning **Identity Server, Typescript**
+- 🌱 I’m currently learning **Python, Typescript**
 
 - 💬 Ask me about **C#, Web APIs, Unit Testing**
 
